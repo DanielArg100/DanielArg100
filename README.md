@@ -1,6 +1,6 @@
 
 
-<div>
+<div style="display: flex;">
   <div>
   - 🟥 Nombre: Daniel Alessandro Cafferata
   - 🟧 Curso: 6°3 

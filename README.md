@@ -9,7 +9,7 @@
   - 🟦 Buenos Aires, Esteban Echeverria.
   - 🟪 Email: danicaffe100@gmail.com
     </div>
-    <img width="700px" height="600px" alt="REInventoryHealth" src="https://github.com/user-attachments/assets/ee24d909-7480-433f-ae5e-b2c50cffbad4" />
+    <img width="100%" height="600px" alt="REInventoryHealth" src="https://github.com/user-attachments/assets/ee24d909-7480-433f-ae5e-b2c50cffbad4" />
 </div>
 <div style="display: flex; justify-content: space-between;">
   <div>

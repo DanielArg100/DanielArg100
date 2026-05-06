@@ -1,11 +1,12 @@
-🟥🟧🟨🟩🟦🟪🟫⬛⬜
+<img width="1080" height="1080" alt="REInventoryHealth" src="https://github.com/user-attachments/assets/ee24d909-7480-433f-ae5e-b2c50cffbad4" />
 
-  - 🟥 Nombre: Daniel Alessandro Cafferata
-  - 🟧 Curso: 6°3 
-  - 🟨 División 6.8
-  - 🟩 Escuela: Escuela de Educación Secundaria Técnica N°1 de Esteban Echeverria
-  - 🟦 Buenos Aires, Esteban Echeverria.
-  - 🟪 Email: danicaffe100@gmail.com
+- 🟥 Nombre: Daniel Alessandro Cafferata
+- 🟧 Curso: 6°3 
+- 🟨 División 6.8
+
+- 🟩 Escuela: Escuela de Educación Secundaria Técnica N°1 de Esteban Echeverria
+- 🟦 Buenos Aires, Esteban Echeverria.
+- 🟪 Email: danicaffe100@gmail.com
 
 <div style="display: flex; justify-content: space-between;">
   <div>

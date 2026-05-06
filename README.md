@@ -10,13 +10,11 @@
 
 <div>
   <div>
-    <h1 >---🍏Bienvenido🍎---</h1>
+    <h1>---🍏Bienvenido🍎---</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est alias, temporibus quibusdam harum mollitia beatae cumque quaerat debitis iste nostrum minima, quos sunt aliquam. Aliquam illo voluptatum magnam quaerat eius.</p>
   </div>
   <img width="498" height="474" alt="elgatitoloves-elgatitolover" src="https://github.com/user-attachments/assets/a15d22c7-bc45-45e5-97e0-99c445ea92a7" />
 </div>
-
-⚪⚫🟤🟣🔵🟢🟡🟠🔴🔘
 
 - ⚪ Front-End:
 

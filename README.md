@@ -1,12 +1,11 @@
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
-<div style="display: flex;">
+
   - 🟥 Nombre: Daniel Alessandro Cafferata
   - 🟧 Curso: 6°3 
   - 🟨 División 6.8
   - 🟩 Escuela: Escuela de Educación Secundaria Técnica N°1 de Esteban Echeverria
   - 🟦 Buenos Aires, Esteban Echeverria.
   - 🟪 Email: danicaffe100@gmail.com
-</div>
 
 <div style="display: flex; justify-content: space-between;">
   <div>

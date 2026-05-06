@@ -1,4 +1,4 @@
-<img width="700px" height="500px" alt="REInventoryHealth" src="https://github.com/user-attachments/assets/ee24d909-7480-433f-ae5e-b2c50cffbad4" />
+<img width="700px" height="600px" alt="REInventoryHealth" src="https://github.com/user-attachments/assets/ee24d909-7480-433f-ae5e-b2c50cffbad4" />
 
 - 🟥 Nombre: Daniel Alessandro Cafferata
 - 🟧 Curso: 6°3 

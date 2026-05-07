@@ -14,11 +14,12 @@
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est alias, temporibus quibusdam harum mollitia beatae cumque quaerat debitis iste nostrum minima, quos sunt aliquam. Aliquam illo voluptatum magnam quaerat eius.</p>
 </div>
 
-<div aling="center">
+<div align="center">
   <img aling="left" width="200" alt="LogoUmbrella" src="https://github.com/user-attachments/assets/49c62eb7-3884-4fb0-bada-0b0c39478743" />
   <img width="300" alt="elgatitoloves-elgatitolover" src="https://github.com/user-attachments/assets/a15d22c7-bc45-45e5-97e0-99c445ea92a7" />
   <img aling="right" width="200" alt="Tricell" src="https://github.com/user-attachments/assets/1e4644cb-0ead-4d52-bddb-282bed6b9806" />
 </div>
+<br><br>
 
 - ⚪ Front-End:
 

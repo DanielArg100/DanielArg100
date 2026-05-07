@@ -47,4 +47,4 @@
 
 - 🟡 Online Platforms:
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)

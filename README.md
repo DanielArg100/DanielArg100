@@ -1,11 +1,11 @@
 <img align="right" width="400px" alt="REInventoryHealth" src="https://github.com/user-attachments/assets/b6b8b96f-7095-4945-99cf-a68be19f03fe" />
 
-- 🟥 Name: Daniel Alessandro Cafferata
-- 🟧 Course: 6°3 
-- 🟨 Division 6.8
-- 🟩 School: Escuela de Educación Secundaria Técnica N°1 de Esteban Echeverria
+- 🟥 `Name`: Daniel Alessandro Cafferata
+- 🟧 `Course`: 6°3 
+- 🟨 `Division`: 6.8
+- 🟩 `School`: Escuela de Educación Secundaria Técnica N°1 de Esteban Echeverria
 - 🟦 Buenos Aires, Esteban Echeverria.
-- 🟪 Email: danicaffe100@gmail.com
+- 🟪 `Email`: danicaffe100@gmail.com
 <br clear="all">
 
 

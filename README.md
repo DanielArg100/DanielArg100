@@ -8,7 +8,6 @@
 - 🟪 `Email`: danicaffe100@gmail.com
 <br clear="all">
 
-https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
 
 <div align="center">
   <h1>---🍏Welcome🍎---</h1>
@@ -22,31 +21,31 @@ https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
 </div>
 <br><br>
 
-- ⚪ Front-End:
+![Static Badge](https://img.shields.io/badge/Front-End-blue)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,godot)](https://skillicons.dev)
 
-- ⚫ Frameworks/Library's:
+![Static Badge](https://img.shields.io/badge/Frameworks-Library's-green)
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,react)](https://skillicons.dev)
 
-- 🟤 Back-End:
+![Static Badge](https://img.shields.io/badge/Back-End-red)
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,nodejs)](https://skillicons.dev)
 
-- 🟣 Data Base:
+![Static Badge](https://img.shields.io/badge/Data-Base-purple)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-- 🔵 IDE (Integrated Development Environment):
+![Static Badge](https://img.shields.io/badge/IDE_(Integrated_Development_Environment)-orange)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git)](https://skillicons.dev)
 
-- 🟢 embedded system programming -🗂 Bundler:
+![Static Badge](https://img.shields.io/badge/embedded_system_programming-Bundler-cyan)
 
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
-- 🟡 Online Platforms:
+![Static Badge](https://img.shields.io/badge/Online-Platforms-lime)
 
 [![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 

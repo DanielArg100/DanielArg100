@@ -48,3 +48,9 @@
 - 🟡 Online Platforms:
 
 [![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielArg100&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=DanielArg100&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)

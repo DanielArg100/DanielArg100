@@ -8,8 +8,9 @@
 - 🟪 `Email`: danicaffe100@gmail.com
 <br clear="all">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)
+<img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielArg100&layout=compact&langs_count=8&theme=algolia"/>
 
 <div align="center">
   <h1>---🍏Welcome🍎---</h1>

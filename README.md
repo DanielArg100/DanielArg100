@@ -8,6 +8,8 @@
 - 🟪 `Email`: danicaffe100@gmail.com
 <br clear="all">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)
+
 
 <div align="center">
   <h1>---🍏Welcome🍎---</h1>
@@ -48,8 +50,3 @@
 ![Static Badge](https://img.shields.io/badge/Online-Platforms-lime)
 
 [![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
-
-
-![Estadísticas de TUS-DATOS](https://vercel.app)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)

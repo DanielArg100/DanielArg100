@@ -8,7 +8,6 @@
 - 🟪 `Email`: danicaffe100@gmail.com
 <br clear="all">
 
-
 <div align="center">
   <h1>---🍏Welcome🍎---</h1>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est alias, temporibus quibusdam harum mollitia beatae cumque quaerat debitis iste nostrum minima, quos sunt aliquam. Aliquam illo voluptatum magnam quaerat eius.</p>
@@ -49,8 +48,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 
-<div aling="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)
 
-</div>
+<img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielArg100&layout=compact&langs_count=8&theme=algolia"/>

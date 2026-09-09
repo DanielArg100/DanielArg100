@@ -38,7 +38,7 @@
 
 ![Static Badge](https://img.shields.io/badge/IDE_(Integrated_Development_Environment)-orange)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/embedded_system_programming-Bundler-cyan)
 
@@ -46,7 +46,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Online-Platforms-lime)
 
-[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DanielArg100&theme=tokyonight)
 
